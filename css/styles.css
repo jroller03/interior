@@ -1,10 +1,30 @@
-.column {
-  width: 300px;
+.column1 {
+  width: 400px;
   float: left;
+  border: 2px solid red;
+  background-color: orange;
+  padding: 4px;
+  margin: 4px;
+}
 
+.column2 {
+  width: 400px;
+  float: left;
+  border: 2px solid green;
+  background-color: #FFFFE0;
+  padding: 4px;
+  margin: 4px;
+}
+.column3 {
+  width: 400px;
+  float: left;
+  border: 2px solid #191970;
+  background-color: #FFDEAD;
+  padding: 4px;
+  margin: 4px;
 }
 
 img {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
 }
